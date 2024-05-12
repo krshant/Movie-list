@@ -8,7 +8,6 @@ import DoubleArrowIcon from '@mui/icons-material/DoubleArrow';
 
 
 export default function MovieList(props){
-  console.log(props?.recommendedMovieList,'item')
     return(
         <>
         <Grid container spacing={0}>
