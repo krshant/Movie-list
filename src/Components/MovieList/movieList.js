@@ -28,30 +28,6 @@ export default function MovieList(props){
             </Carousel>
             </Box>
           </Grid> 
-          {/* <Grid item xs={12}>
-            <Box sx={{height:'200px'}}>
-            <Box sx={{bgcolor:'MistyRose', height:"25px", display:'flex', padding:"6px"}}>
-              <DoubleArrowIcon />
-              <Typography sx={{fontSize:'18px', fontFamily: "Arial"}}>Tranding Movies</Typography>
-            </Box>
-            <Box sx={{ flexGrow: 1 }}>
-              <Grid container spacing={1}>
-
-              </Grid>
-            </Box>
-            </Box>
-          </Grid>
-          <Grid item xs={12}>
-            <Box sx={{bgcolor:'MistyRose', height:"25px", display:'flex', padding:"6px"}}>
-              <DoubleArrowIcon />
-              <Typography sx={{fontSize:'18px', fontFamily: "Arial"}}>Latest Movies</Typography>
-            </Box>
-            <Box sx={{ flexGrow: 1 }}>
-              <Grid container spacing={1}>
-
-              </Grid>
-            </Box>
-          </Grid> */}
         </Grid>          
         </>
     )
